@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+vender/
+dist/
+
+*.exe
+*.exe~
+*.test
+*.out
+*.dll
+*.so
+*.dylib
+
+.testCoverage.txt
